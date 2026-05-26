@@ -1,0 +1,501 @@
+Report_ID,Date_Submitted,Hour_of_Day,Issue_Type,Department,Zone,Severity_Score,Severity_Label,Num_Upvotes,Has_Photo,Has_Voice_Note,Population_Density,Dept_Current_Workload,Weather_Severity_Index,Priority_Score,Resolution_Time_Hours,Citizen_Satisfaction_Score
+RPT-01001,2023-01-01,3,Broken Sidewalk,Public Works,Zone E,3,High,9,0,1,772,32,1,19.11,51.6,4.6
+RPT-01002,2023-01-01,17,Drainage,Public Works,Zone E,4,Critical,17,0,0,1532,52,5,27.67,42.6,2.8
+RPT-01003,2023-01-02,6,Graffiti,Maintenance,Zone A,1,Low,1,0,1,4953,42,1,19.21,62.1,1.0
+RPT-01004,2023-01-03,12,Broken Sidewalk,Public Works,Zone C,3,High,7,1,0,4202,35,3,25.5,43.1,6.3
+RPT-01005,2023-01-03,14,Trash/Waste,Sanitation,Zone B,1,Low,3,1,0,3334,18,3,17.04,30.7,6.7
+RPT-01006,2023-01-04,22,Water Leak,Water Authority,Zone A,4,Critical,11,1,0,4286,77,3,30.0,83.8,1.0
+RPT-01007,2023-01-05,21,Graffiti,Maintenance,Zone B,2,Medium,9,0,0,425,33,5,13.7,34.0,4.4
+RPT-01008,2023-01-05,0,Graffiti,Maintenance,Zone B,3,High,5,1,0,4400,55,2,21.45,74.7,1.0
+RPT-01009,2023-01-06,10,Broken Sidewalk,Public Works,Zone C,1,Low,4,1,0,2197,53,4,16.22,51.9,1.0
+RPT-01010,2023-01-07,9,Streetlight,Electrical,Zone B,1,Low,0,1,0,971,47,1,10.27,50.5,2.0
+RPT-01011,2023-01-08,4,Trash/Waste,Sanitation,Zone B,3,High,8,1,1,4724,76,4,29.25,79.7,1.0
+RPT-01012,2023-01-08,15,Broken Sidewalk,Public Works,Zone C,2,Medium,8,0,1,633,9,2,13.18,16.7,10.0
+RPT-01013,2023-01-09,10,Trash/Waste,Sanitation,Zone B,2,Medium,3,1,0,3299,46,2,17.51,61.7,1.0
+RPT-01014,2023-01-10,20,Trash/Waste,Sanitation,Zone B,2,Medium,5,0,0,2929,11,5,15.95,26.9,7.5
+RPT-01015,2023-01-10,5,Water Leak,Water Authority,Zone B,4,Critical,10,1,0,3607,46,3,28.74,55.0,3.7
+RPT-01016,2023-01-11,8,Graffiti,Maintenance,Zone A,1,Low,5,0,0,3340,40,3,15.6,38.6,2.4
+RPT-01017,2023-01-12,12,Drainage,Public Works,Zone A,1,Low,1,1,0,1065,31,2,9.35,44.4,2.0
+RPT-01018,2023-01-13,23,Water Leak,Water Authority,Zone A,1,Low,2,1,0,2993,62,5,14.34,63.4,1.0
+RPT-01019,2023-01-13,7,Water Leak,Water Authority,Zone C,4,Critical,12,0,0,3111,50,5,29.2,53.6,1.0
+RPT-01020,2023-01-14,13,Trash/Waste,Sanitation,Zone E,1,Low,2,1,0,2615,70,1,13.83,75.3,1.0
+RPT-01021,2023-01-15,23,Road Damage,Public Works,Zone B,4,Critical,6,0,1,450,29,3,18.69,44.1,5.7
+RPT-01022,2023-01-15,0,Graffiti,Maintenance,Zone B,2,Medium,9,1,0,3957,77,2,24.32,81.0,1.0
+RPT-01023,2023-01-16,16,Streetlight,Electrical,Zone C,3,High,11,1,1,4856,31,4,30.0,29.5,7.4
+RPT-01024,2023-01-17,23,Water Leak,Water Authority,Zone B,1,Low,3,1,0,1118,5,3,12.28,9.8,10.0
+RPT-01025,2023-01-18,4,Drainage,Public Works,Zone A,1,Low,2,1,0,1373,78,1,10.41,84.7,1.0
+RPT-01026,2023-01-18,1,Road Damage,Public Works,Zone E,2,Medium,5,1,0,3403,46,5,23.45,52.5,2.9
+RPT-01027,2023-01-19,23,Road Damage,Public Works,Zone D,3,High,12,1,0,632,56,2,23.24,58.8,1.7
+RPT-01028,2023-01-20,8,Streetlight,Electrical,Zone B,4,Critical,7,1,0,1035,29,3,21.49,33.0,6.3
+RPT-01029,2023-01-20,3,Water Leak,Water Authority,Zone A,3,High,11,1,0,2446,58,4,25.52,59.5,1.0
+RPT-01030,2023-01-21,16,Drainage,Public Works,Zone D,2,Medium,2,0,0,2462,71,1,11.19,88.4,1.0
+RPT-01031,2023-01-22,16,Graffiti,Maintenance,Zone E,2,Medium,14,0,0,1097,10,1,19.84,2.3,10.0
+RPT-01032,2023-01-22,20,Pothole,Public Works,Zone D,3,High,7,1,0,3832,62,3,24.33,68.3,1.0
+RPT-01033,2023-01-23,17,Drainage,Public Works,Zone A,4,Critical,11,1,0,4767,74,4,30.0,78.7,1.0
+RPT-01034,2023-01-24,15,Streetlight,Electrical,Zone D,4,Critical,14,1,0,4015,57,1,30.0,55.8,3.1
+RPT-01035,2023-01-25,7,Road Damage,Public Works,Zone C,1,Low,3,1,0,446,70,2,10.08,62.7,1.0
+RPT-01036,2023-01-25,10,Graffiti,Maintenance,Zone D,4,Critical,12,0,0,2629,62,1,27.16,74.3,1.0
+RPT-01037,2023-01-26,20,Drainage,Public Works,Zone B,3,High,9,0,0,1190,6,4,20.28,14.1,9.7
+RPT-01038,2023-01-27,20,Pothole,Public Works,Zone B,2,Medium,6,1,1,3510,26,5,22.55,33.7,7.2
+RPT-01039,2023-01-27,17,Pothole,Public Works,Zone C,1,Low,4,0,0,1126,41,5,10.3,40.6,1.0
+RPT-01040,2023-01-28,22,Trash/Waste,Sanitation,Zone A,1,Low,2,1,1,3638,24,3,19.36,34.8,7.0
+RPT-01041,2023-01-29,23,Trash/Waste,Sanitation,Zone B,2,Medium,6,0,0,2807,28,4,15.58,33.0,4.2
+RPT-01042,2023-01-30,9,Broken Sidewalk,Public Works,Zone E,4,Critical,12,1,0,1274,69,1,26.28,72.5,1.0
+RPT-01043,2023-01-30,12,Streetlight,Electrical,Zone B,2,Medium,5,1,0,4222,69,1,20.89,69.7,1.0
+RPT-01044,2023-01-31,16,Water Leak,Water Authority,Zone B,4,Critical,9,1,0,3999,5,5,28.07,22.4,10.0
+RPT-01045,2023-02-01,17,Drainage,Public Works,Zone A,2,Medium,7,1,0,4984,7,5,26.25,27.2,10.0
+RPT-01046,2023-02-01,9,Drainage,Public Works,Zone D,3,High,16,1,1,3351,50,2,30.0,45.0,3.4
+RPT-01047,2023-02-02,15,Water Leak,Water Authority,Zone B,4,Critical,16,0,0,3638,59,5,30.0,54.4,1.0
+RPT-01048,2023-02-03,19,Broken Sidewalk,Public Works,Zone C,3,High,6,1,0,4773,79,2,25.86,93.3,1.0
+RPT-01049,2023-02-04,4,Road Damage,Public Works,Zone D,1,Low,4,1,0,3691,68,1,13.69,73.5,1.0
+RPT-01050,2023-02-04,12,Road Damage,Public Works,Zone E,2,Medium,8,1,1,906,49,2,18.2,49.8,1.9
+RPT-01051,2023-02-05,17,Broken Sidewalk,Public Works,Zone A,1,Low,4,1,0,3264,30,2,20.05,39.2,4.8
+RPT-01052,2023-02-06,16,Road Damage,Public Works,Zone E,1,Low,2,1,0,953,69,3,11.48,52.3,1.0
+RPT-01053,2023-02-06,8,Trash/Waste,Sanitation,Zone D,1,Low,3,1,0,787,28,5,10.65,29.9,6.1
+RPT-01054,2023-02-07,13,Drainage,Public Works,Zone D,1,Low,6,1,1,1534,78,2,18.47,79.6,1.0
+RPT-01055,2023-02-08,16,Broken Sidewalk,Public Works,Zone D,2,Medium,4,1,1,2047,39,1,16.31,56.0,2.6
+RPT-01056,2023-02-08,3,Drainage,Public Works,Zone E,1,Low,4,1,0,4134,28,4,18.14,18.3,6.5
+RPT-01057,2023-02-09,17,Water Leak,Water Authority,Zone D,2,Medium,4,0,1,4126,32,2,17.73,54.1,4.2
+RPT-01058,2023-02-10,19,Pothole,Public Works,Zone E,2,Medium,8,0,1,3517,20,5,23.32,26.4,7.5
+RPT-01059,2023-02-11,23,Trash/Waste,Sanitation,Zone D,3,High,7,1,0,4220,63,3,28.09,64.8,1.0
+RPT-01060,2023-02-11,23,Graffiti,Maintenance,Zone C,4,Critical,14,1,0,3355,58,1,29.91,62.5,2.5
+RPT-01061,2023-02-12,14,Trash/Waste,Sanitation,Zone D,4,Critical,16,1,0,4502,20,3,30.0,27.5,10.0
+RPT-01062,2023-02-13,10,Broken Sidewalk,Public Works,Zone E,2,Medium,9,1,1,2398,19,4,25.63,23.6,9.7
+RPT-01063,2023-02-13,11,Graffiti,Maintenance,Zone B,3,High,9,1,0,364,15,2,21.76,19.3,10.0
+RPT-01064,2023-02-14,8,Pothole,Public Works,Zone D,2,Medium,5,1,1,2198,69,2,16.4,64.9,1.0
+RPT-01065,2023-02-15,12,Broken Sidewalk,Public Works,Zone B,2,Medium,1,1,0,3257,72,5,18.5,73.2,1.0
+RPT-01066,2023-02-16,14,Streetlight,Electrical,Zone C,2,Medium,7,1,1,2284,47,2,21.51,45.6,1.3
+RPT-01067,2023-02-16,14,Drainage,Public Works,Zone A,3,High,9,1,0,4628,73,1,26.27,73.4,1.0
+RPT-01068,2023-02-17,4,Pothole,Public Works,Zone C,4,Critical,10,0,0,602,17,4,19.11,19.7,7.7
+RPT-01069,2023-02-18,22,Drainage,Public Works,Zone D,3,High,3,0,1,613,14,3,16.11,30.7,6.8
+RPT-01070,2023-02-18,18,Road Damage,Public Works,Zone B,1,Low,2,1,1,244,79,4,11.86,75.3,1.0
+RPT-01071,2023-02-19,19,Streetlight,Electrical,Zone B,3,High,7,1,1,4357,45,2,28.2,56.2,1.7
+RPT-01072,2023-02-20,13,Streetlight,Electrical,Zone E,3,High,11,0,0,2667,54,3,22.2,53.2,1.7
+RPT-01073,2023-02-21,16,Pothole,Public Works,Zone B,3,High,7,0,0,1067,75,5,16.53,66.0,1.0
+RPT-01074,2023-02-21,17,Streetlight,Electrical,Zone E,3,High,11,1,0,218,63,4,18.05,51.0,1.0
+RPT-01075,2023-02-22,20,Graffiti,Maintenance,Zone A,4,Critical,14,1,0,564,43,3,26.49,43.4,5.9
+RPT-01076,2023-02-23,2,Streetlight,Electrical,Zone D,1,Low,1,1,0,4032,7,3,18.02,34.5,10.0
+RPT-01077,2023-02-23,1,Drainage,Public Works,Zone E,4,Critical,12,1,0,779,11,3,24.32,18.8,10.0
+RPT-01078,2023-02-24,0,Drainage,Public Works,Zone A,4,Critical,14,1,0,745,53,1,23.91,52.5,4.0
+RPT-01079,2023-02-25,9,Broken Sidewalk,Public Works,Zone B,3,High,12,1,1,4350,30,4,30.0,33.5,9.4
+RPT-01080,2023-02-25,18,Drainage,Public Works,Zone B,2,Medium,7,1,0,3239,37,3,22.51,41.1,4.0
+RPT-01081,2023-02-26,16,Broken Sidewalk,Public Works,Zone A,2,Medium,7,1,0,4337,52,4,23.4,59.5,3.1
+RPT-01082,2023-02-27,11,Drainage,Public Works,Zone B,4,Critical,11,0,0,4244,6,3,28.26,27.7,9.8
+RPT-01083,2023-02-28,0,Graffiti,Maintenance,Zone A,4,Critical,10,1,0,4526,75,5,30.0,76.2,1.0
+RPT-01084,2023-02-28,11,Water Leak,Water Authority,Zone E,3,High,10,1,0,652,36,5,22.07,30.5,6.8
+RPT-01085,2023-03-01,16,Broken Sidewalk,Public Works,Zone E,4,Critical,6,1,1,4161,8,5,30.0,27.1,9.6
+RPT-01086,2023-03-02,23,Trash/Waste,Sanitation,Zone A,3,High,9,1,1,1581,24,2,27.52,29.8,7.8
+RPT-01087,2023-03-02,2,Road Damage,Public Works,Zone E,2,Medium,8,0,1,1667,40,3,15.67,33.1,2.5
+RPT-01088,2023-03-03,10,Pothole,Public Works,Zone E,2,Medium,4,1,1,2938,36,2,21.92,50.6,3.7
+RPT-01089,2023-03-04,16,Drainage,Public Works,Zone E,1,Low,3,1,0,1416,32,4,12.89,44.3,5.8
+RPT-01090,2023-03-05,22,Streetlight,Electrical,Zone C,2,Medium,5,1,0,1080,5,2,17.24,12.3,10.0
+RPT-01091,2023-03-05,2,Water Leak,Water Authority,Zone D,4,Critical,20,1,0,4014,64,4,30.0,57.0,2.6
+RPT-01092,2023-03-06,7,Drainage,Public Works,Zone B,2,Medium,6,0,0,3349,60,4,18.59,69.5,1.0
+RPT-01093,2023-03-07,19,Streetlight,Electrical,Zone C,3,High,9,1,0,284,39,4,21.41,41.3,5.5
+RPT-01094,2023-03-07,3,Road Damage,Public Works,Zone E,2,Medium,8,1,0,4344,34,2,23.5,43.1,6.4
+RPT-01095,2023-03-08,20,Road Damage,Public Works,Zone A,1,Low,5,1,0,1368,58,3,12.57,43.2,1.0
+RPT-01096,2023-03-09,21,Road Damage,Public Works,Zone E,2,Medium,4,1,0,4364,40,2,22.14,56.6,2.9
+RPT-01097,2023-03-10,6,Streetlight,Electrical,Zone D,3,High,16,0,0,3329,59,3,27.19,56.1,1.5
+RPT-01098,2023-03-10,13,Drainage,Public Works,Zone E,3,High,5,0,0,3845,62,3,21.65,75.1,1.0
+RPT-01099,2023-03-11,13,Road Damage,Public Works,Zone A,4,Critical,11,1,0,2726,69,4,29.3,68.4,1.0
+RPT-01100,2023-03-12,3,Graffiti,Maintenance,Zone D,2,Medium,5,1,0,3067,73,2,15.64,75.2,1.0
+RPT-01101,2023-03-12,15,Broken Sidewalk,Public Works,Zone E,3,High,8,0,0,3716,55,3,21.97,68.2,1.0
+RPT-01102,2023-03-13,23,Streetlight,Electrical,Zone D,1,Low,7,0,1,3567,26,5,20.24,30.9,7.0
+RPT-01103,2023-03-14,21,Streetlight,Electrical,Zone B,4,Critical,8,1,0,2394,57,3,25.08,63.0,1.4
+RPT-01104,2023-03-14,0,Drainage,Public Works,Zone B,1,Low,4,1,0,3755,40,5,14.89,44.4,3.4
+RPT-01105,2023-03-15,16,Streetlight,Electrical,Zone E,2,Medium,5,1,1,645,72,2,18.27,65.9,1.0
+RPT-01106,2023-03-16,9,Streetlight,Electrical,Zone D,2,Medium,7,0,0,3826,40,2,19.51,55.5,1.0
+RPT-01107,2023-03-17,21,Road Damage,Public Works,Zone A,2,Medium,4,1,0,4216,56,2,21.3,64.5,1.0
+RPT-01108,2023-03-17,15,Drainage,Public Works,Zone E,4,Critical,14,1,0,4075,57,3,30.0,61.4,1.6
+RPT-01109,2023-03-18,15,Road Damage,Public Works,Zone B,3,High,12,0,0,3537,54,1,25.47,54.9,2.6
+RPT-01110,2023-03-19,7,Broken Sidewalk,Public Works,Zone B,4,Critical,9,1,1,461,45,3,27.37,46.2,3.0
+RPT-01111,2023-03-19,6,Water Leak,Water Authority,Zone E,1,Low,4,1,1,2048,22,3,15.19,29.5,6.7
+RPT-01112,2023-03-20,5,Broken Sidewalk,Public Works,Zone D,4,Critical,15,1,0,4225,26,4,30.0,28.0,10.0
+RPT-01113,2023-03-21,15,Water Leak,Water Authority,Zone B,1,Low,3,1,0,2466,70,4,15.43,64.2,1.0
+RPT-01114,2023-03-22,19,Road Damage,Public Works,Zone D,4,Critical,13,1,0,291,25,3,24.18,13.5,9.6
+RPT-01115,2023-03-22,15,Broken Sidewalk,Public Works,Zone B,3,High,6,1,0,4422,48,5,29.96,51.0,2.5
+RPT-01116,2023-03-23,6,Drainage,Public Works,Zone B,1,Low,3,1,0,4375,51,4,19.24,51.1,1.1
+RPT-01117,2023-03-24,8,Pothole,Public Works,Zone C,2,Medium,7,1,0,3509,43,3,23.13,49.1,3.8
+RPT-01118,2023-03-24,13,Road Damage,Public Works,Zone B,2,Medium,7,0,0,1182,33,1,13.06,43.3,3.9
+RPT-01119,2023-03-25,10,Water Leak,Water Authority,Zone A,4,Critical,6,0,0,3643,58,5,23.39,71.9,1.0
+RPT-01120,2023-03-26,13,Graffiti,Maintenance,Zone E,2,Medium,5,1,0,2733,21,2,18.72,30.0,9.0
+RPT-01121,2023-03-27,6,Water Leak,Water Authority,Zone E,1,Low,1,1,0,893,64,3,11.96,59.4,1.0
+RPT-01122,2023-03-27,0,Graffiti,Maintenance,Zone D,2,Medium,8,1,0,4320,35,3,24.08,44.9,4.9
+RPT-01123,2023-03-28,12,Streetlight,Electrical,Zone B,3,High,10,1,1,355,77,5,23.67,63.0,1.0
+RPT-01124,2023-03-29,19,Broken Sidewalk,Public Works,Zone A,3,High,10,1,0,3788,53,4,30.0,54.3,1.4
+RPT-01125,2023-03-29,2,Graffiti,Maintenance,Zone D,4,Critical,12,1,0,2012,6,4,28.17,19.7,10.0
+RPT-01126,2023-03-30,19,Water Leak,Water Authority,Zone C,1,Low,2,1,1,4314,52,4,20.49,68.2,1.0
+RPT-01127,2023-03-31,3,Streetlight,Electrical,Zone D,3,High,8,1,0,1607,18,2,22.43,21.3,7.9
+RPT-01128,2023-03-31,10,Pothole,Public Works,Zone D,3,High,12,1,0,1416,63,5,25.14,54.5,1.0
+RPT-01129,2023-04-01,1,Drainage,Public Works,Zone B,1,Low,3,1,0,1610,62,5,14.08,70.6,1.0
+RPT-01130,2023-04-02,13,Drainage,Public Works,Zone C,2,Medium,7,1,0,3697,62,4,23.99,63.8,1.0
+RPT-01131,2023-04-03,11,Drainage,Public Works,Zone D,2,Medium,11,1,0,4572,55,4,27.34,54.0,1.9
+RPT-01132,2023-04-03,16,Graffiti,Maintenance,Zone A,4,Critical,12,1,0,751,6,1,25.83,15.2,10.0
+RPT-01133,2023-04-04,11,Pothole,Public Works,Zone A,2,Medium,3,0,0,3594,45,1,14.27,66.9,1.0
+RPT-01134,2023-04-05,11,Graffiti,Maintenance,Zone E,1,Low,4,0,1,1376,20,3,10.94,29.3,5.5
+RPT-01135,2023-04-05,0,Broken Sidewalk,Public Works,Zone C,3,High,8,1,0,4934,8,3,25.98,22.2,10.0
+RPT-01136,2023-04-06,12,Graffiti,Maintenance,Zone C,2,Medium,3,1,0,4532,16,5,21.21,30.2,8.4
+RPT-01137,2023-04-07,13,Pothole,Public Works,Zone E,4,Critical,9,1,1,1197,33,5,25.87,25.3,7.0
+RPT-01138,2023-04-08,23,Pothole,Public Works,Zone D,2,Medium,4,1,0,4276,11,2,20.15,30.8,9.1
+RPT-01139,2023-04-08,1,Broken Sidewalk,Public Works,Zone C,1,Low,5,1,1,2931,18,2,19.28,22.4,10.0
+RPT-01140,2023-04-09,11,Pothole,Public Works,Zone A,4,Critical,12,0,0,4137,16,1,25.79,41.1,9.5
+RPT-01141,2023-04-10,20,Water Leak,Water Authority,Zone A,2,Medium,5,1,1,4252,9,3,21.04,18.1,10.0
+RPT-01142,2023-04-10,15,Pothole,Public Works,Zone B,4,Critical,15,0,0,572,36,1,22.52,37.7,6.4
+RPT-01143,2023-04-11,3,Drainage,Public Works,Zone C,1,Low,2,1,1,2448,78,1,15.19,84.8,1.0
+RPT-01144,2023-04-12,7,Water Leak,Water Authority,Zone D,3,High,5,1,1,1048,47,3,20.53,48.8,1.8
+RPT-01145,2023-04-13,1,Water Leak,Water Authority,Zone E,1,Low,5,1,0,2756,73,2,14.86,60.5,1.0
+RPT-01146,2023-04-13,9,Broken Sidewalk,Public Works,Zone E,1,Low,3,1,0,2522,49,3,16.2,52.8,1.0
+RPT-01147,2023-04-14,8,Trash/Waste,Sanitation,Zone D,1,Low,2,1,0,703,13,4,9.52,12.3,9.1
+RPT-01148,2023-04-15,22,Trash/Waste,Sanitation,Zone B,1,Low,4,1,0,3389,53,4,18.17,51.3,1.0
+RPT-01149,2023-04-15,14,Pothole,Public Works,Zone E,3,High,12,1,0,902,37,4,23.36,27.9,6.0
+RPT-01150,2023-04-16,12,Water Leak,Water Authority,Zone C,3,High,10,0,0,3825,22,5,24.35,42.8,7.7
+RPT-01151,2023-04-17,22,Trash/Waste,Sanitation,Zone B,4,Critical,6,1,0,514,13,2,18.92,19.9,10.0
+RPT-01152,2023-04-17,16,Trash/Waste,Sanitation,Zone C,2,Medium,4,0,0,2576,66,2,15.45,87.4,1.0
+RPT-01153,2023-04-18,15,Pothole,Public Works,Zone A,3,High,8,0,0,1240,61,5,19.42,57.8,1.0
+RPT-01154,2023-04-19,1,Trash/Waste,Sanitation,Zone B,3,High,6,0,0,4578,33,1,23.41,57.8,4.2
+RPT-01155,2023-04-20,19,Graffiti,Maintenance,Zone E,2,Medium,6,1,0,3190,29,4,21.72,31.3,5.8
+RPT-01156,2023-04-20,19,Streetlight,Electrical,Zone B,3,High,13,1,0,457,19,4,21.4,10.3,10.0
+RPT-01157,2023-04-21,13,Broken Sidewalk,Public Works,Zone B,1,Low,4,0,0,774,10,1,10.92,17.6,9.2
+RPT-01158,2023-04-22,2,Streetlight,Electrical,Zone B,1,Low,1,1,0,4869,46,3,18.1,61.2,1.0
+RPT-01159,2023-04-22,22,Pothole,Public Works,Zone B,2,Medium,13,1,0,1752,33,3,24.18,19.3,8.0
+RPT-01160,2023-04-23,11,Drainage,Public Works,Zone C,4,Critical,8,1,0,4718,8,2,29.27,36.6,10.0
+RPT-01161,2023-04-24,7,Broken Sidewalk,Public Works,Zone A,4,Critical,4,1,0,957,61,5,22.28,54.9,1.0
+RPT-01162,2023-04-25,1,Pothole,Public Works,Zone D,2,Medium,8,1,1,3010,53,2,21.78,57.0,2.1
+RPT-01163,2023-04-25,3,Water Leak,Water Authority,Zone B,2,Medium,8,1,0,1304,48,3,19.42,48.5,4.0
+RPT-01164,2023-04-26,13,Drainage,Public Works,Zone E,1,Low,0,1,0,4724,79,1,12.33,84.2,1.0
+RPT-01165,2023-04-27,15,Streetlight,Electrical,Zone B,4,Critical,9,0,0,3659,18,2,26.53,44.6,8.1
+RPT-01166,2023-04-27,18,Pothole,Public Works,Zone E,3,High,9,1,1,4192,7,4,28.46,22.1,10.0
+RPT-01167,2023-04-28,1,Water Leak,Water Authority,Zone C,1,Low,2,0,1,403,66,4,9.32,69.9,1.0
+RPT-01168,2023-04-29,11,Broken Sidewalk,Public Works,Zone E,2,Medium,5,1,0,2975,68,1,20.49,69.7,1.0
+RPT-01169,2023-04-30,13,Broken Sidewalk,Public Works,Zone D,4,Critical,10,0,0,2532,49,3,25.8,74.1,1.0
+RPT-01170,2023-04-30,5,Road Damage,Public Works,Zone A,3,High,11,1,1,2192,62,4,29.52,44.9,1.0
+RPT-01171,2023-05-01,12,Water Leak,Water Authority,Zone E,3,High,8,0,0,2443,24,4,22.47,33.8,5.9
+RPT-01172,2023-05-02,3,Graffiti,Maintenance,Zone E,1,Low,5,1,0,506,62,5,12.23,38.5,1.0
+RPT-01173,2023-05-02,21,Trash/Waste,Sanitation,Zone A,4,Critical,16,0,0,1887,61,2,28.47,68.4,1.3
+RPT-01174,2023-05-03,17,Drainage,Public Works,Zone D,4,Critical,6,1,0,4309,72,3,25.33,84.4,1.0
+RPT-01175,2023-05-04,11,Water Leak,Water Authority,Zone B,2,Medium,7,0,1,2060,56,2,16.69,59.5,1.0
+RPT-01176,2023-05-04,19,Road Damage,Public Works,Zone E,4,Critical,11,0,1,2161,41,3,28.71,53.2,3.1
+RPT-01177,2023-05-05,21,Trash/Waste,Sanitation,Zone A,4,Critical,9,1,1,922,12,4,25.47,19.5,10.0
+RPT-01178,2023-05-06,20,Trash/Waste,Sanitation,Zone C,1,Low,7,1,0,979,48,5,12.76,31.6,3.3
+RPT-01179,2023-05-07,18,Pothole,Public Works,Zone A,4,Critical,11,0,1,728,9,2,26.28,16.8,10.0
+RPT-01180,2023-05-07,7,Trash/Waste,Sanitation,Zone C,3,High,6,1,0,543,73,4,19.23,67.6,1.0
+RPT-01181,2023-05-08,6,Graffiti,Maintenance,Zone D,1,Low,0,0,0,3986,35,3,13.12,53.3,2.4
+RPT-01182,2023-05-09,15,Broken Sidewalk,Public Works,Zone B,1,Low,3,1,1,3882,49,2,17.19,61.0,1.0
+RPT-01183,2023-05-09,18,Road Damage,Public Works,Zone A,2,Medium,9,1,0,408,13,2,17.44,23.9,10.0
+RPT-01184,2023-05-10,5,Trash/Waste,Sanitation,Zone E,4,Critical,6,0,0,4936,36,4,27.06,48.4,2.3
+RPT-01185,2023-05-11,19,Pothole,Public Works,Zone D,2,Medium,6,1,0,3606,37,2,19.78,47.3,6.1
+RPT-01186,2023-05-12,20,Graffiti,Maintenance,Zone A,3,High,7,0,1,1511,71,5,20.37,74.2,1.0
+RPT-01187,2023-05-12,10,Streetlight,Electrical,Zone E,1,Low,3,1,0,2499,34,5,13.15,33.9,5.1
+RPT-01188,2023-05-13,4,Broken Sidewalk,Public Works,Zone A,1,Low,2,1,0,3536,33,4,15.65,29.5,3.7
+RPT-01189,2023-05-14,15,Broken Sidewalk,Public Works,Zone C,1,Low,1,1,0,2147,7,3,13.55,13.3,9.9
+RPT-01190,2023-05-14,6,Road Damage,Public Works,Zone A,3,High,7,1,1,1119,61,4,21.22,60.5,1.0
+RPT-01191,2023-05-15,4,Broken Sidewalk,Public Works,Zone A,3,High,11,1,1,2244,34,5,30.0,34.1,6.3
+RPT-01192,2023-05-16,10,Trash/Waste,Sanitation,Zone A,2,Medium,6,1,0,618,13,1,12.38,23.3,10.0
+RPT-01193,2023-05-17,14,Pothole,Public Works,Zone D,2,Medium,5,1,0,1949,30,1,16.01,36.6,5.9
+RPT-01194,2023-05-17,2,Broken Sidewalk,Public Works,Zone A,2,Medium,5,1,0,3042,6,2,18.1,23.9,10.0
+RPT-01195,2023-05-18,4,Broken Sidewalk,Public Works,Zone E,4,Critical,11,0,1,1299,66,2,24.13,65.7,1.0
+RPT-01196,2023-05-19,22,Streetlight,Electrical,Zone C,1,Low,4,1,0,3592,7,1,18.44,24.0,10.0
+RPT-01197,2023-05-19,20,Streetlight,Electrical,Zone C,1,Low,3,1,1,2972,50,5,16.87,49.0,1.0
+RPT-01198,2023-05-20,4,Drainage,Public Works,Zone A,2,Medium,5,1,0,2680,72,2,17.68,70.2,1.0
+RPT-01199,2023-05-21,8,Graffiti,Maintenance,Zone D,1,Low,1,1,1,1745,29,4,14.77,40.1,5.8
+RPT-01200,2023-05-21,14,Trash/Waste,Sanitation,Zone D,2,Medium,8,1,1,1270,55,4,21.08,38.0,1.5
+RPT-01201,2023-05-22,2,Broken Sidewalk,Public Works,Zone E,4,Critical,12,1,0,2050,17,5,29.46,21.2,10.0
+RPT-01202,2023-05-23,5,Water Leak,Water Authority,Zone A,4,Critical,12,1,1,4398,48,2,30.0,55.3,2.6
+RPT-01203,2023-05-24,16,Broken Sidewalk,Public Works,Zone C,3,High,12,1,0,3139,39,4,28.27,49.0,5.4
+RPT-01204,2023-05-24,20,Pothole,Public Works,Zone D,4,Critical,11,1,0,2103,59,2,28.7,66.2,1.9
+RPT-01205,2023-05-25,7,Drainage,Public Works,Zone A,2,Medium,9,0,0,878,13,2,12.54,16.5,8.6
+RPT-01206,2023-05-26,20,Graffiti,Maintenance,Zone D,4,Critical,9,1,1,1188,6,4,25.53,13.9,10.0
+RPT-01207,2023-05-26,10,Water Leak,Water Authority,Zone D,3,High,13,1,0,2675,65,1,24.03,72.7,1.0
+RPT-01208,2023-05-27,5,Drainage,Public Works,Zone C,1,Low,3,1,0,1807,45,4,14.32,39.4,2.0
+RPT-01209,2023-05-28,7,Road Damage,Public Works,Zone B,2,Medium,4,1,0,3069,48,5,21.68,43.0,1.6
+RPT-01210,2023-05-29,9,Graffiti,Maintenance,Zone E,1,Low,2,0,0,1702,68,3,8.73,69.4,1.0
+RPT-01211,2023-05-29,23,Broken Sidewalk,Public Works,Zone E,3,High,13,1,0,1989,35,4,25.37,33.2,7.1
+RPT-01212,2023-05-30,2,Broken Sidewalk,Public Works,Zone C,3,High,9,1,0,1625,51,2,20.49,56.7,3.0
+RPT-01213,2023-05-31,22,Graffiti,Maintenance,Zone D,3,High,9,1,1,2640,6,2,25.53,22.0,10.0
+RPT-01214,2023-05-31,13,Broken Sidewalk,Public Works,Zone A,1,Low,3,1,0,2242,73,4,13.93,76.7,1.0
+RPT-01215,2023-06-01,22,Trash/Waste,Sanitation,Zone D,1,Low,4,1,0,1478,62,3,14.52,47.1,1.0
+RPT-01216,2023-06-02,13,Graffiti,Maintenance,Zone C,1,Low,0,1,0,2794,48,4,12.08,46.2,1.0
+RPT-01217,2023-06-03,9,Drainage,Public Works,Zone E,1,Low,7,1,0,4889,78,3,23.03,79.1,1.0
+RPT-01218,2023-06-03,11,Graffiti,Maintenance,Zone D,3,High,11,1,1,2636,60,3,27.61,51.3,1.8
+RPT-01219,2023-06-04,5,Water Leak,Water Authority,Zone E,3,High,9,1,1,4003,47,5,29.09,43.7,2.2
+RPT-01220,2023-06-05,11,Broken Sidewalk,Public Works,Zone A,2,Medium,8,1,0,2405,38,2,19.71,51.1,3.9
+RPT-01221,2023-06-05,22,Trash/Waste,Sanitation,Zone E,2,Medium,2,1,1,1227,34,2,15.56,34.5,4.2
+RPT-01222,2023-06-06,13,Trash/Waste,Sanitation,Zone E,1,Low,3,1,1,3739,75,3,20.25,72.7,1.0
+RPT-01223,2023-06-07,1,Road Damage,Public Works,Zone B,4,Critical,10,0,1,3683,74,2,27.99,85.2,1.0
+RPT-01224,2023-06-07,8,Drainage,Public Works,Zone B,4,Critical,16,1,0,2441,59,1,29.38,65.3,3.2
+RPT-01225,2023-06-08,9,Streetlight,Electrical,Zone B,3,High,6,0,1,2965,71,3,23.23,69.7,1.0
+RPT-01226,2023-06-09,16,Streetlight,Electrical,Zone E,3,High,8,1,0,1373,17,2,19.3,28.1,9.4
+RPT-01227,2023-06-10,16,Graffiti,Maintenance,Zone C,3,High,17,1,0,3430,7,1,30.0,7.3,10.0
+RPT-01228,2023-06-10,2,Road Damage,Public Works,Zone E,2,Medium,8,1,0,3550,30,5,23.96,36.0,5.2
+RPT-01229,2023-06-11,18,Pothole,Public Works,Zone C,2,Medium,4,1,0,603,61,2,13.17,56.3,1.0
+RPT-01230,2023-06-12,0,Graffiti,Maintenance,Zone C,3,High,6,1,0,2925,28,1,20.92,51.4,7.7
+RPT-01231,2023-06-12,11,Road Damage,Public Works,Zone B,3,High,4,1,0,3582,57,4,23.79,63.0,1.0
+RPT-01232,2023-06-13,6,Drainage,Public Works,Zone D,3,High,2,1,0,4363,74,4,17.45,74.2,1.0
+RPT-01233,2023-06-14,3,Drainage,Public Works,Zone A,4,Critical,7,0,1,287,47,1,20.38,56.2,1.7
+RPT-01234,2023-06-15,9,Drainage,Public Works,Zone B,2,Medium,6,1,1,1358,64,3,17.65,59.2,1.0
+RPT-01235,2023-06-15,12,Drainage,Public Works,Zone B,4,Critical,13,1,0,4473,62,3,30.0,73.1,1.3
+RPT-01236,2023-06-16,1,Drainage,Public Works,Zone D,4,Critical,10,1,1,3057,53,2,30.0,56.5,1.1
+RPT-01237,2023-06-17,9,Road Damage,Public Works,Zone A,3,High,12,1,1,1581,46,4,29.17,34.5,3.4
+RPT-01238,2023-06-17,20,Road Damage,Public Works,Zone E,3,High,5,1,1,4881,70,3,28.06,87.1,1.0
+RPT-01239,2023-06-18,21,Trash/Waste,Sanitation,Zone E,1,Low,1,1,0,2264,15,3,11.08,18.1,6.7
+RPT-01240,2023-06-19,3,Water Leak,Water Authority,Zone B,1,Low,2,0,0,2574,22,4,8.84,32.3,5.1
+RPT-01241,2023-06-20,17,Streetlight,Electrical,Zone A,4,Critical,11,0,1,517,56,5,23.81,52.4,1.0
+RPT-01242,2023-06-20,4,Broken Sidewalk,Public Works,Zone B,2,Medium,4,1,0,1702,50,3,13.17,54.4,1.0
+RPT-01243,2023-06-21,18,Drainage,Public Works,Zone C,3,High,7,1,0,2242,48,1,20.14,54.1,2.6
+RPT-01244,2023-06-22,1,Pothole,Public Works,Zone B,3,High,10,0,0,4798,26,2,25.66,40.8,6.0
+RPT-01245,2023-06-22,11,Broken Sidewalk,Public Works,Zone B,4,Critical,11,1,0,2222,57,3,26.71,61.6,1.9
+RPT-01246,2023-06-23,16,Road Damage,Public Works,Zone E,1,Low,2,1,0,318,63,3,9.3,53.1,1.0
+RPT-01247,2023-06-24,9,Pothole,Public Works,Zone E,2,Medium,8,1,0,909,34,5,18.36,21.3,8.1
+RPT-01248,2023-06-24,1,Pothole,Public Works,Zone E,1,Low,3,1,0,3757,12,1,15.42,35.7,7.8
+RPT-01249,2023-06-25,5,Pothole,Public Works,Zone C,1,Low,6,1,1,4340,61,2,18.34,66.5,1.0
+RPT-01250,2023-06-26,7,Trash/Waste,Sanitation,Zone E,1,Low,4,1,1,4609,77,3,19.48,86.0,1.0
+RPT-01251,2023-06-27,18,Road Damage,Public Works,Zone A,1,Low,2,1,0,3450,24,2,15.96,41.7,5.8
+RPT-01252,2023-06-27,10,Pothole,Public Works,Zone D,3,High,7,1,1,617,29,4,22.54,25.4,6.0
+RPT-01253,2023-06-28,11,Drainage,Public Works,Zone A,3,High,10,1,0,2803,23,3,22.85,31.5,10.0
+RPT-01254,2023-06-29,8,Graffiti,Maintenance,Zone A,1,Low,0,1,0,4054,9,3,13.89,21.7,9.3
+RPT-01255,2023-06-29,1,Pothole,Public Works,Zone E,2,Medium,4,1,1,1301,79,4,19.41,65.0,1.0
+RPT-01256,2023-06-30,7,Trash/Waste,Sanitation,Zone D,4,Critical,11,1,1,4621,76,5,30.0,74.6,1.0
+RPT-01257,2023-07-01,10,Broken Sidewalk,Public Works,Zone D,2,Medium,3,1,1,3628,31,3,20.99,50.3,6.1
+RPT-01258,2023-07-02,20,Road Damage,Public Works,Zone D,2,Medium,10,1,0,2461,44,2,24.08,45.2,4.3
+RPT-01259,2023-07-02,3,Water Leak,Water Authority,Zone C,2,Medium,7,1,1,4369,30,1,24.3,37.6,6.5
+RPT-01260,2023-07-03,9,Trash/Waste,Sanitation,Zone E,1,Low,2,0,0,3834,31,2,12.01,44.6,4.3
+RPT-01261,2023-07-04,20,Pothole,Public Works,Zone D,3,High,7,0,1,708,66,5,18.78,62.9,1.0
+RPT-01262,2023-07-04,19,Road Damage,Public Works,Zone C,2,Medium,8,1,1,2579,54,1,24.84,48.7,3.0
+RPT-01263,2023-07-05,15,Graffiti,Maintenance,Zone B,1,Low,2,1,0,3364,46,2,15.5,56.9,2.0
+RPT-01264,2023-07-06,7,Pothole,Public Works,Zone B,2,Medium,3,1,0,887,33,2,13.2,39.6,3.9
+RPT-01265,2023-07-07,3,Trash/Waste,Sanitation,Zone C,2,Medium,9,1,1,4952,43,4,28.32,39.5,3.9
+RPT-01266,2023-07-07,9,Streetlight,Electrical,Zone C,1,Low,5,0,0,1492,64,5,12.79,49.2,1.0
+RPT-01267,2023-07-08,11,Drainage,Public Works,Zone E,3,High,14,1,0,4105,45,4,30.0,50.0,3.7
+RPT-01268,2023-07-09,13,Water Leak,Water Authority,Zone E,3,High,10,1,1,3275,37,1,25.94,45.4,5.9
+RPT-01269,2023-07-09,15,Broken Sidewalk,Public Works,Zone B,4,Critical,12,1,0,3409,20,4,30.0,36.4,9.3
+RPT-01270,2023-07-10,21,Trash/Waste,Sanitation,Zone D,1,Low,1,1,1,524,27,5,11.62,33.2,5.6
+RPT-01271,2023-07-11,17,Road Damage,Public Works,Zone B,4,Critical,12,1,0,2193,11,3,28.52,26.7,10.0
+RPT-01272,2023-07-11,20,Water Leak,Water Authority,Zone D,4,Critical,14,1,0,4176,30,3,30.0,36.8,9.3
+RPT-01273,2023-07-12,21,Water Leak,Water Authority,Zone D,4,Critical,7,1,1,2970,16,1,26.44,26.6,10.0
+RPT-01274,2023-07-13,20,Water Leak,Water Authority,Zone E,3,High,7,0,0,4572,76,3,22.2,88.5,1.0
+RPT-01275,2023-07-14,11,Pothole,Public Works,Zone A,1,Low,2,0,0,2783,9,4,10.05,34.2,8.1
+RPT-01276,2023-07-14,17,Drainage,Public Works,Zone A,4,Critical,15,1,1,3757,73,1,30.0,75.2,1.0
+RPT-01277,2023-07-15,6,Pothole,Public Works,Zone C,1,Low,6,1,0,3787,53,5,19.84,40.0,2.7
+RPT-01278,2023-07-16,19,Road Damage,Public Works,Zone E,1,Low,1,1,0,351,30,1,5.55,33.4,4.0
+RPT-01279,2023-07-16,23,Pothole,Public Works,Zone D,3,High,7,1,0,1154,9,1,22.17,22.4,10.0
+RPT-01280,2023-07-17,22,Streetlight,Electrical,Zone A,4,Critical,20,1,1,4554,26,2,30.0,24.3,10.0
+RPT-01281,2023-07-18,6,Drainage,Public Works,Zone D,4,Critical,10,1,1,2571,17,2,30.0,19.7,10.0
+RPT-01282,2023-07-19,8,Drainage,Public Works,Zone A,1,Low,3,1,1,1391,32,1,10.97,38.0,5.3
+RPT-01283,2023-07-19,0,Road Damage,Public Works,Zone A,2,Medium,3,1,0,887,37,3,14.36,38.0,3.3
+RPT-01284,2023-07-20,5,Broken Sidewalk,Public Works,Zone A,3,High,13,1,1,509,27,2,24.54,33.7,8.7
+RPT-01285,2023-07-21,5,Streetlight,Electrical,Zone E,3,High,12,1,0,1702,22,5,25.06,19.5,10.0
+RPT-01286,2023-07-21,21,Trash/Waste,Sanitation,Zone B,3,High,7,1,0,3327,34,4,25.05,44.7,6.5
+RPT-01287,2023-07-22,11,Pothole,Public Works,Zone D,3,High,2,1,0,4768,30,2,22.73,55.9,4.8
+RPT-01288,2023-07-23,21,Graffiti,Maintenance,Zone E,4,Critical,12,0,1,3567,20,1,28.02,39.6,8.3
+RPT-01289,2023-07-24,11,Pothole,Public Works,Zone E,4,Critical,9,1,1,3595,43,3,29.6,47.6,4.0
+RPT-01290,2023-07-24,9,Water Leak,Water Authority,Zone E,2,Medium,2,1,0,1013,37,4,11.27,36.3,4.0
+RPT-01291,2023-07-25,22,Pothole,Public Works,Zone E,3,High,8,0,0,1045,30,2,17.45,45.8,5.2
+RPT-01292,2023-07-26,5,Trash/Waste,Sanitation,Zone E,3,High,11,0,1,1364,52,3,20.65,51.9,1.0
+RPT-01293,2023-07-26,16,Pothole,Public Works,Zone C,1,Low,6,1,0,4962,69,3,21.73,68.3,1.0
+RPT-01294,2023-07-27,18,Streetlight,Electrical,Zone D,4,Critical,10,0,1,1967,42,3,26.32,54.2,2.3
+RPT-01295,2023-07-28,17,Streetlight,Electrical,Zone E,3,High,9,1,0,554,6,1,19.62,17.8,10.0
+RPT-01296,2023-07-28,5,Drainage,Public Works,Zone D,2,Medium,6,1,0,2072,10,5,18.36,25.4,9.2
+RPT-01297,2023-07-29,23,Road Damage,Public Works,Zone C,2,Medium,7,1,0,2224,50,3,20.91,51.2,1.9
+RPT-01298,2023-07-30,18,Broken Sidewalk,Public Works,Zone C,4,Critical,14,1,0,3017,54,4,30.0,48.1,2.6
+RPT-01299,2023-07-31,9,Graffiti,Maintenance,Zone D,2,Medium,7,1,1,4032,42,2,22.66,49.0,1.9
+RPT-01300,2023-07-31,23,Water Leak,Water Authority,Zone A,2,Medium,3,1,0,4475,22,4,20.92,41.5,6.5
+RPT-01301,2023-08-01,7,Pothole,Public Works,Zone B,4,Critical,16,1,1,265,31,1,29.71,34.8,8.7
+RPT-01302,2023-08-02,20,Pothole,Public Works,Zone A,3,High,5,1,0,4466,45,1,22.92,57.0,2.2
+RPT-01303,2023-08-02,23,Trash/Waste,Sanitation,Zone A,3,High,8,1,0,4290,76,4,28.8,78.6,1.0
+RPT-01304,2023-08-03,5,Road Damage,Public Works,Zone A,2,Medium,5,1,0,2721,78,5,18.79,68.8,1.0
+RPT-01305,2023-08-04,20,Streetlight,Electrical,Zone E,2,Medium,4,1,0,2781,21,1,16.31,33.6,7.9
+RPT-01306,2023-08-05,6,Graffiti,Maintenance,Zone C,3,High,5,1,1,1590,66,1,18.61,75.7,1.0
+RPT-01307,2023-08-05,23,Drainage,Public Works,Zone A,4,Critical,10,0,0,1330,33,4,23.69,45.3,5.0
+RPT-01308,2023-08-06,0,Streetlight,Electrical,Zone C,2,Medium,7,0,0,2686,62,1,16.39,65.1,1.0
+RPT-01309,2023-08-07,17,Water Leak,Water Authority,Zone D,1,Low,1,1,0,1034,74,5,9.4,64.9,1.0
+RPT-01310,2023-08-07,23,Road Damage,Public Works,Zone B,4,Critical,9,1,0,426,26,5,22.96,26.1,7.1
+RPT-01311,2023-08-08,19,Water Leak,Water Authority,Zone D,2,Medium,10,1,0,3715,10,5,21.32,28.5,10.0
+RPT-01312,2023-08-09,11,Broken Sidewalk,Public Works,Zone D,2,Medium,3,1,1,4737,30,2,24.04,51.3,4.2
+RPT-01313,2023-08-10,15,Drainage,Public Works,Zone E,1,Low,3,1,0,2643,43,5,15.43,38.8,2.3
+RPT-01314,2023-08-10,9,Broken Sidewalk,Public Works,Zone B,1,Low,4,1,0,927,16,5,9.44,21.4,8.4
+RPT-01315,2023-08-11,9,Trash/Waste,Sanitation,Zone D,3,High,8,1,0,3886,18,2,23.49,40.5,9.1
+RPT-01316,2023-08-12,13,Water Leak,Water Authority,Zone D,4,Critical,13,1,1,3822,26,3,30.0,45.6,9.4
+RPT-01317,2023-08-12,19,Trash/Waste,Sanitation,Zone B,4,Critical,12,0,0,1236,55,1,20.6,70.8,1.2
+RPT-01318,2023-08-13,9,Pothole,Public Works,Zone B,3,High,8,1,0,2032,27,5,24.65,34.4,7.2
+RPT-01319,2023-08-14,9,Broken Sidewalk,Public Works,Zone D,4,Critical,8,1,0,2940,52,1,26.41,64.9,1.0
+RPT-01320,2023-08-14,10,Road Damage,Public Works,Zone B,4,Critical,9,0,0,692,75,4,21.12,73.8,1.0
+RPT-01321,2023-08-15,22,Water Leak,Water Authority,Zone D,4,Critical,9,1,0,1748,54,1,20.29,61.4,1.1
+RPT-01322,2023-08-16,1,Graffiti,Maintenance,Zone D,4,Critical,13,1,0,1343,17,2,26.3,20.5,10.0
+RPT-01323,2023-08-17,19,Drainage,Public Works,Zone E,4,Critical,21,1,1,4157,14,1,30.0,26.6,10.0
+RPT-01324,2023-08-17,7,Streetlight,Electrical,Zone A,1,Low,4,1,0,3607,59,1,14.98,64.3,1.0
+RPT-01325,2023-08-18,22,Road Damage,Public Works,Zone D,4,Critical,9,1,1,839,13,1,23.76,32.5,10.0
+RPT-01326,2023-08-19,6,Road Damage,Public Works,Zone C,1,Low,3,1,0,372,56,3,8.45,54.0,1.0
+RPT-01327,2023-08-19,7,Trash/Waste,Sanitation,Zone A,4,Critical,12,1,0,4554,6,3,30.0,17.7,10.0
+RPT-01328,2023-08-20,0,Broken Sidewalk,Public Works,Zone A,3,High,5,1,0,4159,29,4,25.97,36.8,6.0
+RPT-01329,2023-08-21,20,Water Leak,Water Authority,Zone A,2,Medium,5,1,0,716,17,2,15.45,18.0,10.0
+RPT-01330,2023-08-22,1,Water Leak,Water Authority,Zone E,1,Low,2,1,1,722,55,1,10.84,53.9,1.0
+RPT-01331,2023-08-22,17,Pothole,Public Works,Zone D,4,Critical,10,1,0,2117,62,1,28.73,69.8,1.0
+RPT-01332,2023-08-23,14,Pothole,Public Works,Zone E,3,High,12,0,0,3086,38,1,25.48,45.6,4.3
+RPT-01333,2023-08-24,0,Drainage,Public Works,Zone D,2,Medium,6,1,0,2364,39,1,17.88,51.0,3.8
+RPT-01334,2023-08-24,4,Trash/Waste,Sanitation,Zone E,1,Low,2,1,1,2129,7,3,14.13,14.0,10.0
+RPT-01335,2023-08-25,1,Road Damage,Public Works,Zone E,2,Medium,3,1,0,4145,63,4,22.7,71.8,1.0
+RPT-01336,2023-08-26,19,Water Leak,Water Authority,Zone C,3,High,15,1,1,2409,74,5,30.0,59.4,1.0
+RPT-01337,2023-08-27,2,Graffiti,Maintenance,Zone E,1,Low,2,1,0,3983,52,2,13.95,68.6,1.0
+RPT-01338,2023-08-27,18,Trash/Waste,Sanitation,Zone B,2,Medium,3,1,0,2790,68,1,18.11,70.1,1.0
+RPT-01339,2023-08-28,17,Drainage,Public Works,Zone C,4,Critical,19,0,0,4276,23,4,30.0,40.0,10.0
+RPT-01340,2023-08-29,21,Drainage,Public Works,Zone E,1,Low,5,0,0,1293,71,5,10.29,59.4,1.0
+RPT-01341,2023-08-29,17,Trash/Waste,Sanitation,Zone A,2,Medium,6,1,0,4080,77,4,19.99,68.8,1.0
+RPT-01342,2023-08-30,13,Drainage,Public Works,Zone B,3,High,2,1,0,2694,9,3,18.58,30.4,8.6
+RPT-01343,2023-08-31,23,Trash/Waste,Sanitation,Zone B,3,High,7,1,1,2779,71,5,26.14,84.5,1.0
+RPT-01344,2023-08-31,7,Streetlight,Electrical,Zone B,1,Low,0,1,1,2688,15,4,17.26,30.8,7.9
+RPT-01345,2023-09-01,11,Trash/Waste,Sanitation,Zone C,2,Medium,9,1,1,2985,72,3,26.11,68.8,1.0
+RPT-01346,2023-09-02,20,Broken Sidewalk,Public Works,Zone E,1,Low,3,1,0,2958,73,4,14.94,73.9,1.0
+RPT-01347,2023-09-03,9,Trash/Waste,Sanitation,Zone E,1,Low,6,1,0,1774,5,4,16.43,2.2,10.0
+RPT-01348,2023-09-03,22,Drainage,Public Works,Zone A,2,Medium,6,1,0,2573,67,5,21.69,64.1,1.0
+RPT-01349,2023-09-04,19,Water Leak,Water Authority,Zone A,2,Medium,6,1,1,4190,33,3,24.81,43.9,5.6
+RPT-01350,2023-09-05,16,Broken Sidewalk,Public Works,Zone B,4,Critical,12,0,1,1293,16,1,23.81,39.9,8.4
+RPT-01351,2023-09-05,10,Drainage,Public Works,Zone A,2,Medium,12,1,0,1389,45,2,20.58,37.8,3.8
+RPT-01352,2023-09-06,1,Pothole,Public Works,Zone C,3,High,13,1,0,2889,6,5,29.76,7.3,10.0
+RPT-01353,2023-09-07,3,Pothole,Public Works,Zone E,1,Low,1,1,0,4295,41,3,17.01,47.6,3.3
+RPT-01354,2023-09-08,0,Water Leak,Water Authority,Zone B,1,Low,4,0,0,2075,49,4,11.41,51.0,1.0
+RPT-01355,2023-09-08,14,Water Leak,Water Authority,Zone A,3,High,11,1,0,3606,52,3,24.08,56.3,2.0
+RPT-01356,2023-09-09,12,Broken Sidewalk,Public Works,Zone C,2,Medium,7,1,0,1987,28,2,16.64,28.1,7.3
+RPT-01357,2023-09-10,7,Streetlight,Electrical,Zone C,3,High,6,1,1,4132,26,2,27.49,46.8,8.2
+RPT-01358,2023-09-10,3,Water Leak,Water Authority,Zone A,3,High,8,1,0,1807,15,1,17.82,29.5,10.0
+RPT-01359,2023-09-11,9,Pothole,Public Works,Zone E,4,Critical,15,0,0,3948,62,1,30.0,76.2,1.0
+RPT-01360,2023-09-12,18,Trash/Waste,Sanitation,Zone A,3,High,9,1,1,248,50,2,22.75,53.0,3.6
+RPT-01361,2023-09-13,17,Drainage,Public Works,Zone B,1,Low,2,1,0,4061,33,5,17.78,41.3,4.6
+RPT-01362,2023-09-13,4,Pothole,Public Works,Zone A,3,High,8,0,0,2380,39,5,22.06,40.4,2.8
+RPT-01363,2023-09-14,18,Pothole,Public Works,Zone C,1,Low,4,1,0,3246,19,4,17.99,22.0,6.8
+RPT-01364,2023-09-15,22,Streetlight,Electrical,Zone A,1,Low,2,1,0,3033,64,1,13.49,78.4,1.0
+RPT-01365,2023-09-15,21,Broken Sidewalk,Public Works,Zone E,1,Low,2,1,0,1597,46,4,10.23,46.6,1.0
+RPT-01366,2023-09-16,15,Broken Sidewalk,Public Works,Zone D,2,Medium,4,0,1,4026,47,1,20.2,74.6,1.0
+RPT-01367,2023-09-17,0,Road Damage,Public Works,Zone A,4,Critical,20,1,0,4774,78,2,30.0,75.4,1.0
+RPT-01368,2023-09-17,11,Streetlight,Electrical,Zone E,1,Low,2,1,0,1031,53,5,9.85,50.6,1.0
+RPT-01369,2023-09-18,23,Trash/Waste,Sanitation,Zone E,1,Low,2,1,0,2897,68,5,13.28,68.5,1.0
+RPT-01370,2023-09-19,1,Broken Sidewalk,Public Works,Zone C,2,Medium,10,1,0,4977,36,2,26.75,38.8,7.6
+RPT-01371,2023-09-20,20,Drainage,Public Works,Zone E,1,Low,4,1,1,2935,68,4,17.63,65.9,1.0
+RPT-01372,2023-09-20,7,Water Leak,Water Authority,Zone E,3,High,7,1,1,281,6,4,20.88,5.9,10.0
+RPT-01373,2023-09-21,17,Streetlight,Electrical,Zone E,3,High,7,0,0,286,28,3,16.98,33.6,5.5
+RPT-01374,2023-09-22,15,Water Leak,Water Authority,Zone E,4,Critical,11,1,1,2263,70,1,25.46,77.4,1.0
+RPT-01375,2023-09-22,4,Pothole,Public Works,Zone B,1,Low,4,1,0,1021,42,4,15.11,32.7,3.8
+RPT-01376,2023-09-23,21,Drainage,Public Works,Zone B,2,Medium,3,1,1,362,35,2,13.51,43.6,3.5
+RPT-01377,2023-09-24,12,Drainage,Public Works,Zone C,3,High,7,1,0,3939,30,4,26.75,35.0,7.6
+RPT-01378,2023-09-25,18,Pothole,Public Works,Zone A,2,Medium,4,0,1,2597,33,5,18.82,48.1,1.9
+RPT-01379,2023-09-25,2,Streetlight,Electrical,Zone E,2,Medium,11,1,1,2132,71,1,24.67,60.7,1.0
+RPT-01380,2023-09-26,7,Pothole,Public Works,Zone A,3,High,11,1,0,2928,29,3,26.75,29.5,9.1
+RPT-01381,2023-09-27,11,Water Leak,Water Authority,Zone A,2,Medium,10,1,0,3735,52,1,24.41,48.5,3.1
+RPT-01382,2023-09-27,1,Road Damage,Public Works,Zone C,3,High,6,1,1,3646,69,5,27.53,69.4,1.0
+RPT-01383,2023-09-28,10,Drainage,Public Works,Zone E,2,Medium,7,1,1,2990,57,5,23.13,44.7,1.0
+RPT-01384,2023-09-29,11,Graffiti,Maintenance,Zone E,3,High,7,1,0,2907,71,5,21.78,65.7,1.0
+RPT-01385,2023-09-30,17,Graffiti,Maintenance,Zone D,1,Low,2,0,1,4133,22,5,15.04,39.9,3.5
+RPT-01386,2023-09-30,12,Water Leak,Water Authority,Zone A,4,Critical,12,0,0,3585,13,2,27.61,32.1,8.9
+RPT-01387,2023-10-01,4,Trash/Waste,Sanitation,Zone A,3,High,12,1,0,1122,42,3,22.66,30.8,6.5
+RPT-01388,2023-10-02,21,Broken Sidewalk,Public Works,Zone B,3,High,13,0,0,2375,25,5,23.97,28.0,6.7
+RPT-01389,2023-10-02,11,Pothole,Public Works,Zone D,4,Critical,14,1,0,1782,69,5,30.0,60.4,1.0
+RPT-01390,2023-10-03,1,Pothole,Public Works,Zone B,3,High,2,1,1,764,25,4,18.92,46.3,6.6
+RPT-01391,2023-10-04,4,Trash/Waste,Sanitation,Zone B,3,High,5,1,0,3458,31,3,22.54,49.3,5.7
+RPT-01392,2023-10-04,6,Trash/Waste,Sanitation,Zone B,2,Medium,4,1,1,2797,74,1,20.3,79.8,1.0
+RPT-01393,2023-10-05,23,Water Leak,Water Authority,Zone C,4,Critical,9,1,0,2700,48,3,26.47,61.4,2.4
+RPT-01394,2023-10-06,11,Water Leak,Water Authority,Zone C,1,Low,2,1,0,4766,32,3,18.3,45.1,4.5
+RPT-01395,2023-10-07,15,Trash/Waste,Sanitation,Zone B,3,High,11,1,0,1187,49,3,23.84,43.6,4.2
+RPT-01396,2023-10-07,22,Drainage,Public Works,Zone D,4,Critical,12,1,0,3836,21,5,30.0,38.8,9.2
+RPT-01397,2023-10-08,7,Water Leak,Water Authority,Zone A,2,Medium,5,1,0,423,44,5,14.32,30.7,3.6
+RPT-01398,2023-10-09,8,Road Damage,Public Works,Zone D,1,Low,1,1,0,550,7,2,10.24,21.8,10.0
+RPT-01399,2023-10-09,14,Water Leak,Water Authority,Zone E,4,Critical,14,1,0,2128,70,1,29.88,68.7,1.0
+RPT-01400,2023-10-10,4,Pothole,Public Works,Zone C,1,Low,3,1,0,548,50,4,7.61,42.9,1.2
+RPT-01401,2023-10-11,12,Water Leak,Water Authority,Zone A,1,Low,1,1,0,4477,34,3,15.75,45.3,4.0
+RPT-01402,2023-10-12,4,Drainage,Public Works,Zone A,1,Low,2,1,0,4932,73,1,16.29,84.2,1.0
+RPT-01403,2023-10-12,10,Trash/Waste,Sanitation,Zone E,3,High,10,0,1,1217,13,1,19.5,24.5,10.0
+RPT-01404,2023-10-13,9,Pothole,Public Works,Zone E,3,High,11,1,1,2426,15,2,28.45,21.9,10.0
+RPT-01405,2023-10-14,19,Water Leak,Water Authority,Zone B,2,Medium,5,1,0,4324,73,4,22.68,72.3,1.0
+RPT-01406,2023-10-14,12,Drainage,Public Works,Zone C,2,Medium,7,0,0,2619,70,3,15.25,62.0,1.0
+RPT-01407,2023-10-15,8,Road Damage,Public Works,Zone C,4,Critical,9,1,0,2093,35,4,25.81,39.4,5.3
+RPT-01408,2023-10-16,20,Water Leak,Water Authority,Zone D,2,Medium,5,1,1,3240,37,2,22.29,45.2,2.8
+RPT-01409,2023-10-17,13,Drainage,Public Works,Zone B,1,Low,1,1,0,2268,43,5,13.01,45.7,1.0
+RPT-01410,2023-10-17,17,Road Damage,Public Works,Zone B,1,Low,3,0,0,1325,50,1,7.08,66.5,1.0
+RPT-01411,2023-10-18,14,Trash/Waste,Sanitation,Zone B,3,High,13,1,0,3317,41,3,29.53,37.9,4.8
+RPT-01412,2023-10-19,9,Water Leak,Water Authority,Zone B,1,Low,1,1,0,4361,64,5,19.95,62.6,1.0
+RPT-01413,2023-10-19,23,Road Damage,Public Works,Zone C,4,Critical,13,1,0,4242,35,2,30.0,43.9,7.7
+RPT-01414,2023-10-20,6,Pothole,Public Works,Zone C,1,Low,4,1,1,4633,15,4,23.92,27.9,8.5
+RPT-01415,2023-10-21,7,Trash/Waste,Sanitation,Zone B,1,Low,2,1,0,2370,6,1,11.47,23.6,10.0
+RPT-01416,2023-10-21,2,Pothole,Public Works,Zone D,4,Critical,10,1,0,646,31,3,23.78,39.6,7.5
+RPT-01417,2023-10-22,14,Graffiti,Maintenance,Zone A,2,Medium,5,1,0,2858,6,5,20.17,18.4,10.0
+RPT-01418,2023-10-23,15,Streetlight,Electrical,Zone A,2,Medium,10,0,0,3562,25,5,22.8,33.8,7.0
+RPT-01419,2023-10-24,3,Water Leak,Water Authority,Zone D,4,Critical,9,0,1,2918,62,1,26.2,75.4,1.0
+RPT-01420,2023-10-24,20,Road Damage,Public Works,Zone B,3,High,10,1,0,3683,9,4,26.49,30.7,10.0
+RPT-01421,2023-10-25,5,Streetlight,Electrical,Zone C,1,Low,2,0,1,3144,56,2,14.36,63.8,1.0
+RPT-01422,2023-10-26,0,Streetlight,Electrical,Zone A,4,Critical,9,1,0,4576,49,4,28.91,61.3,2.5
+RPT-01423,2023-10-26,3,Road Damage,Public Works,Zone E,1,Low,3,1,0,795,24,4,9.49,30.8,6.6
+RPT-01424,2023-10-27,10,Trash/Waste,Sanitation,Zone E,3,High,12,1,1,2186,65,4,30.0,59.1,1.0
+RPT-01425,2023-10-28,11,Water Leak,Water Authority,Zone D,1,Low,6,0,0,2950,42,1,12.93,39.1,3.6
+RPT-01426,2023-10-29,4,Graffiti,Maintenance,Zone B,4,Critical,7,0,1,1274,24,1,21.74,43.0,5.8
+RPT-01427,2023-10-29,22,Pothole,Public Works,Zone A,1,Low,4,1,0,4169,29,2,20.59,45.2,6.5
+RPT-01428,2023-10-30,20,Drainage,Public Works,Zone B,2,Medium,3,0,1,4505,6,4,16.94,23.3,9.4
+RPT-01429,2023-10-31,15,Pothole,Public Works,Zone A,3,High,14,1,0,4421,36,1,30.0,48.0,8.2
+RPT-01430,2023-10-31,12,Drainage,Public Works,Zone D,3,High,13,0,0,4787,30,2,29.45,46.0,6.2
+RPT-01431,2023-11-01,12,Pothole,Public Works,Zone D,3,High,11,0,1,3780,74,2,29.32,85.2,1.0
+RPT-01432,2023-11-02,16,Road Damage,Public Works,Zone E,4,Critical,13,1,1,3207,45,4,30.0,44.9,5.0
+RPT-01433,2023-11-03,6,Graffiti,Maintenance,Zone B,3,High,12,1,1,1169,71,3,28.11,64.7,1.0
+RPT-01434,2023-11-03,7,Water Leak,Water Authority,Zone E,2,Medium,7,1,1,780,5,4,18.05,8.5,10.0
+RPT-01435,2023-11-04,12,Drainage,Public Works,Zone B,4,Critical,10,1,1,3024,55,3,30.0,71.1,1.8
+RPT-01436,2023-11-05,22,Water Leak,Water Authority,Zone E,2,Medium,2,1,0,4201,9,2,18.95,46.6,9.3
+RPT-01437,2023-11-05,15,Water Leak,Water Authority,Zone C,1,Low,7,1,0,1411,17,1,15.58,27.9,8.3
+RPT-01438,2023-11-06,3,Water Leak,Water Authority,Zone C,1,Low,4,0,0,429,23,5,9.13,25.0,6.0
+RPT-01439,2023-11-07,7,Broken Sidewalk,Public Works,Zone C,1,Low,5,1,0,4484,16,2,16.71,41.6,9.0
+RPT-01440,2023-11-07,15,Trash/Waste,Sanitation,Zone C,1,Low,1,1,0,3385,52,1,8.89,65.0,1.0
+RPT-01441,2023-11-08,20,Pothole,Public Works,Zone A,2,Medium,6,0,0,701,29,2,12.52,32.0,5.6
+RPT-01442,2023-11-09,9,Water Leak,Water Authority,Zone C,4,Critical,9,0,0,2332,61,4,23.47,68.0,1.0
+RPT-01443,2023-11-10,11,Pothole,Public Works,Zone D,4,Critical,12,1,0,248,39,3,25.19,42.0,6.0
+RPT-01444,2023-11-10,11,Water Leak,Water Authority,Zone D,3,High,9,0,0,3766,9,2,22.85,34.0,9.5
+RPT-01445,2023-11-11,4,Drainage,Public Works,Zone A,2,Medium,3,1,0,3255,26,1,20.44,38.6,6.9
+RPT-01446,2023-11-12,15,Trash/Waste,Sanitation,Zone C,1,Low,2,0,0,888,61,4,8.22,52.7,1.0
+RPT-01447,2023-11-12,0,Trash/Waste,Sanitation,Zone C,2,Medium,5,1,1,586,51,5,17.0,42.1,1.0
+RPT-01448,2023-11-13,8,Road Damage,Public Works,Zone C,3,High,8,1,1,1169,58,4,23.74,57.8,1.0
+RPT-01449,2023-11-14,11,Broken Sidewalk,Public Works,Zone E,3,High,7,1,0,3660,7,3,24.28,28.6,10.0
+RPT-01450,2023-11-15,4,Road Damage,Public Works,Zone B,2,Medium,12,1,0,1205,57,4,22.15,44.1,1.6
+RPT-01451,2023-11-15,21,Road Damage,Public Works,Zone E,2,Medium,8,1,0,3252,35,5,21.58,31.8,5.4
+RPT-01452,2023-11-16,19,Road Damage,Public Works,Zone B,2,Medium,6,1,0,3617,73,1,20.52,87.1,1.0
+RPT-01453,2023-11-17,21,Road Damage,Public Works,Zone C,4,Critical,13,1,0,2502,37,2,28.69,38.4,7.1
+RPT-01454,2023-11-17,23,Road Damage,Public Works,Zone C,1,Low,3,0,0,2483,76,3,9.68,83.5,1.0
+RPT-01455,2023-11-18,2,Graffiti,Maintenance,Zone E,2,Medium,5,1,0,1807,54,5,21.08,53.2,1.0
+RPT-01456,2023-11-19,4,Trash/Waste,Sanitation,Zone E,2,Medium,7,1,0,4566,20,3,22.61,38.3,8.0
+RPT-01457,2023-11-20,1,Road Damage,Public Works,Zone B,2,Medium,7,1,1,322,43,4,18.25,34.8,4.8
+RPT-01458,2023-11-20,13,Water Leak,Water Authority,Zone D,3,High,6,1,1,1480,50,3,20.56,53.6,1.0
+RPT-01459,2023-11-21,1,Trash/Waste,Sanitation,Zone B,3,High,10,0,0,3927,51,5,26.3,55.6,1.0
+RPT-01460,2023-11-22,12,Trash/Waste,Sanitation,Zone E,4,Critical,10,0,0,458,48,2,18.0,51.1,3.1
+RPT-01461,2023-11-22,6,Streetlight,Electrical,Zone E,1,Low,3,1,0,1147,13,2,12.45,20.8,9.6
+RPT-01462,2023-11-23,9,Graffiti,Maintenance,Zone A,4,Critical,15,1,0,724,54,3,30.0,53.2,4.6
+RPT-01463,2023-11-24,12,Road Damage,Public Works,Zone E,1,Low,5,0,1,1087,64,1,9.91,57.7,1.0
+RPT-01464,2023-11-24,15,Pothole,Public Works,Zone A,3,High,6,1,0,407,19,3,19.44,23.3,7.8
+RPT-01465,2023-11-25,13,Drainage,Public Works,Zone D,3,High,6,0,1,3582,40,4,22.89,51.1,2.7
+RPT-01466,2023-11-26,10,Broken Sidewalk,Public Works,Zone B,3,High,5,1,0,2994,67,2,23.75,75.8,1.0
+RPT-01467,2023-11-27,9,Water Leak,Water Authority,Zone B,4,Critical,14,0,1,348,73,2,28.18,67.7,1.0
+RPT-01468,2023-11-27,5,Pothole,Public Works,Zone A,2,Medium,7,1,0,637,45,2,15.52,47.5,2.9
+RPT-01469,2023-11-28,3,Graffiti,Maintenance,Zone B,2,Medium,6,1,1,2402,78,1,17.82,77.2,1.0
+RPT-01470,2023-11-29,20,Drainage,Public Works,Zone E,3,High,6,0,0,3949,28,1,22.12,54.0,3.4
+RPT-01471,2023-11-29,0,Graffiti,Maintenance,Zone C,2,Medium,12,1,0,3361,53,5,27.16,44.9,3.6
+RPT-01472,2023-11-30,6,Water Leak,Water Authority,Zone A,2,Medium,6,1,0,4101,22,3,23.25,36.0,5.7
+RPT-01473,2023-12-01,23,Trash/Waste,Sanitation,Zone B,4,Critical,10,1,0,4653,11,3,30.0,34.0,10.0
+RPT-01474,2023-12-02,8,Drainage,Public Works,Zone A,1,Low,2,1,1,3445,8,4,16.66,20.3,9.1
+RPT-01475,2023-12-02,7,Trash/Waste,Sanitation,Zone A,3,High,7,1,1,4751,73,2,30.0,90.1,1.0
+RPT-01476,2023-12-03,4,Water Leak,Water Authority,Zone C,3,High,14,1,1,3023,64,1,30.0,74.9,1.2
+RPT-01477,2023-12-04,18,Pothole,Public Works,Zone E,4,Critical,14,1,0,4924,59,4,30.0,66.7,2.3
+RPT-01478,2023-12-04,9,Water Leak,Water Authority,Zone A,4,Critical,11,1,1,3470,20,4,30.0,32.9,9.8
+RPT-01479,2023-12-05,10,Pothole,Public Works,Zone B,2,Medium,6,0,0,685,33,1,12.4,44.8,4.6
+RPT-01480,2023-12-06,14,Drainage,Public Works,Zone D,3,High,10,1,0,399,27,3,20.31,21.5,7.1
+RPT-01481,2023-12-07,5,Drainage,Public Works,Zone A,1,Low,1,1,0,4666,18,2,19.06,39.0,7.2
+RPT-01482,2023-12-07,14,Road Damage,Public Works,Zone A,4,Critical,12,1,0,2182,53,3,27.54,51.5,2.3
+RPT-01483,2023-12-08,4,Graffiti,Maintenance,Zone C,1,Low,6,1,0,1671,37,4,15.39,33.6,5.6
+RPT-01484,2023-12-09,18,Road Damage,Public Works,Zone E,1,Low,3,1,0,4543,29,2,19.14,39.9,6.0
+RPT-01485,2023-12-09,21,Graffiti,Maintenance,Zone D,3,High,8,1,0,2511,25,5,24.54,27.2,8.7
+RPT-01486,2023-12-10,18,Road Damage,Public Works,Zone B,3,High,6,1,1,3573,21,4,24.37,26.4,9.6
+RPT-01487,2023-12-11,9,Trash/Waste,Sanitation,Zone D,4,Critical,13,1,0,2278,27,3,29.73,25.8,10.0
+RPT-01488,2023-12-11,11,Drainage,Public Works,Zone B,3,High,8,1,0,1721,61,3,21.22,62.9,1.0
+RPT-01489,2023-12-12,21,Pothole,Public Works,Zone E,3,High,11,1,0,804,62,3,23.69,50.4,1.0
+RPT-01490,2023-12-13,3,Graffiti,Maintenance,Zone B,3,High,8,1,0,4048,18,1,25.72,41.3,9.5
+RPT-01491,2023-12-14,17,Water Leak,Water Authority,Zone C,1,Low,4,1,0,3542,24,4,17.93,26.0,7.2
+RPT-01492,2023-12-14,15,Graffiti,Maintenance,Zone C,4,Critical,18,1,0,1617,34,2,30.0,31.7,9.7
+RPT-01493,2023-12-15,7,Pothole,Public Works,Zone C,2,Medium,5,1,0,4797,23,3,22.75,35.7,5.5
+RPT-01494,2023-12-16,3,Road Damage,Public Works,Zone C,1,Low,4,0,0,4075,57,3,16.81,67.0,1.0
+RPT-01495,2023-12-16,22,Graffiti,Maintenance,Zone D,3,High,6,1,0,3133,60,1,20.9,62.1,1.0
+RPT-01496,2023-12-17,11,Broken Sidewalk,Public Works,Zone E,1,Low,5,1,1,748,27,2,13.95,25.3,5.5
+RPT-01497,2023-12-18,1,Trash/Waste,Sanitation,Zone B,3,High,7,1,0,1038,66,4,18.77,56.9,1.0
+RPT-01498,2023-12-19,3,Drainage,Public Works,Zone B,3,High,6,1,0,4015,37,5,24.05,52.3,2.6
+RPT-01499,2023-12-19,4,Pothole,Public Works,Zone C,1,Low,4,1,1,1047,22,1,13.17,30.3,6.5
+RPT-01500,2023-12-20,2,Drainage,Public Works,Zone C,4,Critical,20,1,0,4909,77,4,30.0,62.4,1.0
